@@ -1,5 +1,7 @@
-Smart Traffic Light Controller
-🚦 Overview
+Smart Traffic Light Controller:
+
+**🚦 Overview**
+
 A software-only solution for a smart traffic light controller using Neural Networks and Fuzzy Logic. 
 This system simulates traffic flow and adjusts the green light time based on real-time traffic data for each direction (North, South, East, West).
 
