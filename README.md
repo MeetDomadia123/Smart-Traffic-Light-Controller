@@ -5,15 +5,15 @@ Smart Traffic Light Controller:
 A software-only solution for a smart traffic light controller using Neural Networks and Fuzzy Logic. 
 This system simulates traffic flow and adjusts the green light time based on real-time traffic data for each direction (North, South, East, West).
 
-🧑‍💻 Technologies Used
-Python
-Neural Networks (TensorFlow)
-Fuzzy Logic (scikit-fuzzy)
-Matplotlib (for graphing)
-VS Code (IDE)
-Git (for version control)
+**🧑‍💻 Technologies Used**
+  **Python**
+**Neural Networks (TensorFlow)
+  Fuzzy Logic (scikit-fuzzy)
+  Matplotlib (for graphing)
+  VS Code (IDE)
+  Git (for version control)**
 
-🔧 How It Works
+**🔧 How It Works**
   Traffic Generation: Random traffic data is generated for each direction.
 
   Fuzzy Logic Controller: The green light time is calculated based on predefined rules, considering the total number of vehicles in all directions.
