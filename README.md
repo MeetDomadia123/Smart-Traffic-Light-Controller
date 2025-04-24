@@ -24,3 +24,5 @@ This system simulates traffic flow and adjusts the green light time based on rea
 
   Simulation: The system simulates green light durations for several cycles and prints the results.
 
+
+
